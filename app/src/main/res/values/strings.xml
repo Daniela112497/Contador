@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="cadena_propia">this is my String</string>
+</resources>
